@@ -17,7 +17,6 @@
     "xls",
     "xlsx"
   ],
-  "authors": "Sean Cannon <alienwebguy@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/seancannon/axles/issues"
@@ -25,5 +24,10 @@
   "homepage": "https://github.com/seancannon/axles#readme",
   "dependencies": {
     "xlsx": "^0.13.x"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "author": "Sean Cannon <alienwebguy@gmail.com>"
 }
