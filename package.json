@@ -1,0 +1,29 @@
+{
+  "name": "axles",
+  "version": "1.0.0",
+  "description": "Axles - Excel / XLSX reader and parser. Forked from node-excel-export",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seancannon/axles.git"
+  },
+  "keywords": [
+    "excel",
+    "workbook",
+    "spreadsheet",
+    "xls",
+    "xlsx"
+  ],
+  "authors": "Sean Cannon <alienwebguy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seancannon/axles/issues"
+  },
+  "homepage": "https://github.com/seancannon/axles#readme",
+  "dependencies": {
+    "xlsx": "^0.13.x"
+  }
+}
