@@ -1,6 +1,6 @@
 {
   "name": "axles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Axles - Excel / XLSX reader and parser. Forked from node-excel-export",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/seancannon/axles#readme",
   "dependencies": {
-    "xlsx": "^0.13.x"
+    "xlsx": "^0.18.5"
   },
   "directories": {
     "lib": "lib"
